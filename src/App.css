@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+input {
+  opacity: 0.8;
+}
+
+body {
+  background-color: #c0c5ce;
+}
+/*# sourceMappingURL=App.css.map */
